@@ -11,3 +11,5 @@ The folder `data/raw/` contains the following files:
 - `LightLoggerFormFactorAndPlacem_DataDictionary_2024-02-14.csv`: The data dictionary of the survey questions (REDCap)
 
 - `LightLoggerFormFactorAndPlacem.pdf`: A PDF-print of the survey (REDCap)
+
+*: shared first-authors
